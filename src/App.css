@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+#grid {
+    padding: 5px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+}
+
+img {
+    width: 100%;
+}
